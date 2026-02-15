@@ -1,0 +1,18 @@
+
+{
+  "short_name": "SentinelPTT",
+  "name": "Sentinel PTT Tactical Overlay",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/9431/9431144.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#0a0a0a",
+  "background_color": "#0a0a0a",
+  "orientation": "portrait"
+}

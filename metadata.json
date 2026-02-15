@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sentinel PTT Tactical Overlay - Español",
+  "description": "Una interfaz táctica de radio y gestión de usuarios de alto rendimiento inspirada en ATAK, con estado PTT en tiempo real, conciencia situacional basada en mapas e inteligencia de radio por IA.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
