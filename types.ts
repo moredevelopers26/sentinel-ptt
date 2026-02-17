@@ -21,4 +21,6 @@ export interface Channel {
   name: string;
   userCount: number;
   isActive: boolean;
+  frequency: string;
+  encryption: string;
 }
